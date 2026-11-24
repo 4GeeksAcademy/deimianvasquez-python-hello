@@ -1,0 +1,17 @@
+id,name,quantity,unit,price
+1,Café,3.0,kg,4.0
+2,Café molido premium,20.0,kg,15.0
+3,Leche entera,30.0,litros,2.5
+4,Leche de avena,15.0,litros,3.0
+5,Azúcar morena,10.0,kg,2.0
+6,Jarabe de vainilla,8.0,litros,5.0
+7,Jarabe de caramelo,12.0,litros,5.0
+8,Vasos térmicos de 12oz,200.0,unidades,0.5
+9,Tapas para vasos,150.0,unidades,0.15
+10,Chocolate en polvo,5.0,kg,8.0
+11,Canela molida,3.0,kg,6.0
+12,Café arábica (500g),50.0,bolsas,12.0
+13,Termos reutilizables,20.0,unidades,10.0
+14,Servilletas (paquete x100),100.0,unidades,3.0
+15,Granola,10.0,kg,4.5
+16,Agua embotellada (500ml),40.0,litros,1.0
